@@ -34,7 +34,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelor's of Information Technology ( B.Tech / IT )</li>
+        <li>Bachelors of Information Technology ( B.Tech / IT )</li>
         <li>Gramma Committee Higher Secondary School ( HSC )</li>
       </ul>
     ),
