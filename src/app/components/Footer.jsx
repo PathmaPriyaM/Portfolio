@@ -12,7 +12,7 @@ const  Footer= () => {
     <section className="bg-transparent text-white py-12 flex flex-col items-center justify-center" id='contact'>
       <div className="z-10 text-center">
         <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
-          Let's Connect
+          Lets Connect
         </h2>
           <p className="text-[#ADB7BE] mb-4 max-w-md">
             I am currently exploring new career paths, and I am eager to connect. 
