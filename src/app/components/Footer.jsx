@@ -7,6 +7,8 @@ import GFGIcon from "../../../public/gfg-icon.svg";
 import LeetcodeIcon from "../../../public/leetcode-icon.svg";
 import PhoneIcon from "../../../public/phone-icon.svg";
 import MailIcon from "../../../public/gmail-icon.svg";
+import NaukriIcon from "../../../public/naukri-360-logo.svg";
+
 const  Footer= () => {
   return (
     <section className="bg-transparent text-white py-12 flex flex-col items-center justify-center" id='contact'>
@@ -37,6 +39,9 @@ const  Footer= () => {
             </Link>
             <Link href="https://leetcode.com/u/PathmaPriyaM/">
               <Image src={LeetcodeIcon} alt="Leetcode Icon" width={40} height={40}/>
+            </Link>
+            <Link href="https://www.naukri.com/code360/profile/PathmaPriyaM">
+              <Image src={NaukriIcon} alt="Naukri Icon" width={40} height={40}/>
             </Link>
           </div>
       </div>
