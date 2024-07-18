@@ -41,7 +41,7 @@ const  Footer= () => {
               <Image src={LeetcodeIcon} alt="Leetcode Icon" width={40} height={40}/>
             </Link>
             <Link href="https://www.naukri.com/code360/profile/PathmaPriyaM">
-              <Image src={CodeStudioIcon} alt="CodeStudio Icon" width={100} height={100}/>
+              <Image src={CodeStudioIcon} alt="CodeStudio Icon"/>
             </Link>
           </div>
       </div>
