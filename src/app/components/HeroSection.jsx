@@ -37,8 +37,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Hey there! I am a passionate software developer specializing in both front-end & back-end development.With a keen eye for design and a knack for problem-solving, I thrive in creating dynamic and user-friendly web experiences.
-          </p>
+          Welcome to my portfolio! I specialize in software and web development, crafting efficient and user-friendly solutions. 
+          With a focus on clean, scalable code and intuitive design, I bring creativity and technical expertise to every project. 
+          Explore my portfolio to see how we can work together.
           <div>
             <Link
               href="#contact"
