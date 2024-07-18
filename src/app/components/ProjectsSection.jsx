@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "AI ChatGPT Website",
+    title: "AI ChatBot Website",
     description: "Secure MERN-based AI Chatbot: Stores user messages, ensures data privacy with JWT Tokens, HTTP-Only Cookies, and Password Encryption.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
