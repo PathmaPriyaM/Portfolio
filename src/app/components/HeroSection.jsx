@@ -39,7 +39,7 @@ const HeroSection = () => {
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
           Welcome to my portfolio! I specialize in software and web development, crafting efficient and user-friendly solutions. 
           With a focus on clean, scalable code and intuitive design, I bring creativity and technical expertise to every project. 
-          Explore my portfolio to see how we can work together.
+          Explore my portfolio to see how we can work together. </p>
           <div>
             <Link
               href="#contact"
