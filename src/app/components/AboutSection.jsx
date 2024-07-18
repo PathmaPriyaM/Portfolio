@@ -19,13 +19,11 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Full-Stack Development ( MERN/ MEAN )</li>
-        <li>Algorithmic Problem Solving( C++ )</li>
-        <li>Backend Development ( Node JS )</li>
-        <li>Frontend Development ( HTML, CSS, JavaScript )</li>
-        <li>Frameworks & Libraries ( Angular, React, Bootstrap )</li>
-        <li>RESTful API Development ( Express JS )</li>
-        <li>Database Management ( MySQL, MongoDB )</li>
+        <li>Data Structures and Algorithms ( C++ ) </li>
+        <li>Object Oriented Programming ( Java ) </li>
+        <li>Database Management System ( PostgreSQL, MongoDB )</li>
+        <li>Software Development ( Angular, React, Express JS, Node JS )</li>
+        <li>Web Development ( HTML, CSS, JavaScript ) </li>
       </ul>
     ),
   },
@@ -68,11 +66,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg text-[#ADB7BE] ">
-            I am a versatile software developer specializing in full-stack development. 
-            With expertise in JavaScript, React, Node Js, MongoDB and RESTful APIs, 
-            I excel in creating dynamic and scalable web applications. I am passionate about 
-            solving complex problems and continuously enhancing my skills to deliver top-notch solutions. 
-            As a collaborative team player, I thrive in environments where innovation and teamwork drive success.
+            Skilled Software Developer with over 2+ years of expertise in Data Structures and Algorithms, Object Oriented Programming, Database Management System. 
+            Solved over 600+ problems on competitive programming platforms such as GeeksforGeeks, Coding Ninjas and LeetCode.
+            Aim to deliver high-quality solutions that meet and exceed user expectations. Eager to bring skills and enthusiasm to new challenges and opportunities.
           </p>
           <div className="flex flex-row justify-start mt-8">
           <TabButton
