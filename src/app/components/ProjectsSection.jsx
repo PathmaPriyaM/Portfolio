@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "Restaurant Clone Website",
+    title: "Restaurant Website",
     description: "Crafted a restaurant template UI with HTML, CSS, & JavaScript, showcasing proficiency in web development for engaging user experiences.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Netflix Clone Website",
+    title: "Movie Streaming Website",
     description: "Discover TMDB movies on a responsive Netflix Clone. Enjoy Firebase authentication & Firestore storage for seamless browsing.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "AI ChatGPT Clone Website",
+    title: "AI ChatGPT Website",
     description: "Secure MERN-based AI Chatbot: Stores user messages, ensures data privacy with JWT Tokens, HTTP-Only Cookies, and Password Encryption.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
@@ -34,7 +34,7 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Amazon Clone Website",
+    title: "Amazon UI Website",
     description: "Crafted Amazon Clone UI with HTML, CSS, & JS. Seamlessly replicate Amazon's design for a captivating user experience.",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
