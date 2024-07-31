@@ -10,7 +10,6 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>System Engineer at Infosys Ltd.</li>
-        <li>System Engineer Trainee at Infosys Ltd.</li>
       </ul>
     ),
   },
