@@ -8,7 +8,6 @@ import LeetcodeIcon from "../../../public/leetcode-icon.svg";
 import PhoneIcon from "../../../public/phone-icon.svg";
 import MailIcon from "../../../public/gmail-icon.svg";
 import CodeStudioIcon from "../../../public/code-360-logo.svg";
-
 const  Footer= () => {
   return (
     <section className="bg-transparent text-white py-12 flex flex-col items-center justify-center" id='contact'>
