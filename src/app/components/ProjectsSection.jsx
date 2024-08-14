@@ -7,7 +7,7 @@ const projectsData = [
   {
     id: 1,
     title: "Modern Restaurant UI",
-    description: "A modern, responsive design using HTML, CSS, and JavaScript for displaying menus, reservations, and specials.",
+    description: "Designed and implemented a modern, responsive restaurant UI using HTML, CSS, and JavaScript for displaying menus, reservations, and specials.",
     image: "/images/project-banner.jpg",
     tag: ["All", "Web","Mobile"],
     gitUrl: "https://github.com/PathmaPriyaM/Restaurant-Website",
@@ -25,7 +25,7 @@ const projectsData = [
   {
     id: 3,
     title: "Tic Tac Toe Game",
-    description: "A simple Tic-Tac-Toe game featuring a 3x3 grid where two players take turns to mark their symbols (X or O).",
+    description: "Developed a simple Tic-Tac-Toe game with a 3x3 grid, allowing two players to take turns marking their symbols (X or O).",
     image: "/images/project-banner.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/PathmaPriyaM/Tic-Tac-Toe-Game",
@@ -34,7 +34,7 @@ const projectsData = [
   {
     id: 4,
     title: "Vending Machine System",
-    description: "A stateful vending machine system that manages multiple products, handles payments, provides change, and tracks inventory with support for concurrent transactions.",
+    description: "Designed and implemented a vending machine system that manages products, processes payments, dispenses change, tracks inventory, and supports concurrent transactions.",
     image: "/images/project-banner.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/PathmaPriyaM/Vending-Machine-System",
