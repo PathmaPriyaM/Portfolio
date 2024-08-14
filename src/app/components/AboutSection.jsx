@@ -65,7 +65,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg text-[#ADB7BE] ">
             Skilled Software Developer with over 2+ years of expertise in Data Structures and Algorithms, Object Oriented Programming, Database Management System. 
-            Solved over 600+ problems on competitive programming platforms such as GeeksforGeeks, Coding Ninjas and LeetCode.
+            Solved over 700+ problems on competitive programming platforms such as GeeksforGeeks, Coding Ninjas and LeetCode.
             Aim to deliver high-quality solutions that meet and exceed user expectations. Eager to bring skills and enthusiasm to new challenges and opportunities.
           </p>
           <div className="flex flex-row justify-start mt-8">
