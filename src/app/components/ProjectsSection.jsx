@@ -34,14 +34,23 @@ const projectsData = [
   {
     id: 4,
     title: "Vending Machine System",
-    description: "Designed and implemented a vending machine system that manages products, processes payments, dispenses change, tracks inventory, and supports concurrent transactions.",
+    description: "Designed and implemented a Vending Machine system that manages products, processes payments, dispenses change, tracks inventory, and supports concurrent transactions.",
     image: "/images/project-banner.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/PathmaPriyaM/Vending-Machine-System",
     previewUrl: "https://github.com/PathmaPriyaM/Vending-Machine-System",
   },
-   {
+  {
     id: 5,
+    title: "Car Rental System",
+    description: "Designed and implemented a Car Rental System with core functionalities for car browsing, reservation management, and secure payment processing.",
+    image: "/images/project-banner.jpg",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/PathmaPriyaM/Car-Rental-System",
+    previewUrl: "https://github.com/PathmaPriyaM/Car-Rental-System",
+  },
+   {
+    id: 6,
     title: "Coffee Vending Machine",
     description: "Designed and implemented a Coffee Vending Machine that simulates offering various coffee options, manages inventory, and handles user interactions efficiently.",
     image: "/images/project-banner.jpg",
