@@ -34,7 +34,7 @@ const projectsData = [
   {
     id: 4,
     title: "Movie Streaming Website",
-    description: "Designed and implemented a modern, responsive movie streaming website featuring extensive movie data from the TMDB API. Integrated Firebase for user authentication and Firestore for data management, showcasing proficiency in full-stack development and secure application architecture.",
+    description: "Designed and implemented a modern, responsive movie streaming website featuring extensive movie data from the TMDB API.",
     image: "/images/project-banner.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/PathmaPriyaM/Movie-Streaming-Website",
